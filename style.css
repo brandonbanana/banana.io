@@ -16,3 +16,9 @@ justify-content: space-evenly;
 
 
 }
+
+.stuff {
+
+     max-width: 500px;
+    margin: 86px auto;   
+}
